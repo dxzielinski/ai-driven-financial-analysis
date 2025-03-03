@@ -1,0 +1,12 @@
+[submodule "aidfa-backend"]
+	path = aidfa-backend
+	url = https://github.com/dxzielinski/aidfa-backend.git
+	branch = main
+[submodule "aidfa-frontend"]
+	path = aidfa-frontend
+	url = https://github.com/dxzielinski/aidfa-frontend.git
+	branch = main
+[submodule "aidfa-terraform"]
+	path = aidfa-terraform
+	url = https://github.com/dxzielinski/aidfa-terraform.git
+	branch = main
